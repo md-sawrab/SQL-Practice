@@ -41,3 +41,5 @@ These queries are meant for educational purposes to understand and learn SQL con
 
 ## Acknowldegments 
 To Chandoo YouTube Channel video on Learning SQL Queries in 1 hour.
+
+**Course**: [Learn SQL for Data Analysis in one hour](https://youtu.be/l8DCPaHc5TQ?si=hC4vrsIuFwiTT0E9)
